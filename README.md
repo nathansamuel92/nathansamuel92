@@ -3,9 +3,14 @@
 <h2>👋 About me:</h2>
 <p> I am a dedicated, passionate, high-distinction cybersecurity student at the University of Technology Sydney studying the <a href="https://www.uts.edu.au/study/find-a-course/bachelor-cybersecurity">Bachelor of Cybersecurity</a></h1>. I Have completed over three years of relevant study and developed a robust skill set encompassing project management, practical experience, and proficient report writing within IT, specifically Cybersecurity. In the meantime, I have also accumulated over 2 years of retail/hospitality experience.</p>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Personal Cybersecurity Projects:</h2>
 
 - <b>[Building a Home SOC Lab](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+
+<h2>🏫 Uni/School Notable Projects:</h2>
+
+- <b>[Year12 IPT Major Project](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Year12 SDD Major Project](https://github.com/joshmadakor1/Algorithms-Practice)</b>
 
 ## 📄 Certifications:
 
