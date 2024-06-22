@@ -5,12 +5,12 @@
 
 <h2>👨‍💻 Personal Cybersecurity Projects:</h2>
 
-- <b>[Building a Home SOC Lab](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Building a Home SOC Lab](https://github.com/nathansamuel92/Building-a-Home-SOC-Lab)</b>
 
 <h2>🏫 Uni/School Notable Projects:</h2>
 
-- <b>[Year12 IPT Major Project](https://github.com/joshmadakor1/Algorithms-Practice)</b>
-- <b>[Year12 SDD Major Project](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Year12 IPT Major Project](https://github.com/nathansamuel92/Building-a-Home-SOC-Lab)</b>
+- <b>[Year12 SDD Major Project](https://github.com/nathansamuel92/Building-a-Home-SOC-Lab)</b>
 
 ## 📄 Certifications:
 
