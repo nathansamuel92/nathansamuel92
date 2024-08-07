@@ -20,6 +20,9 @@
 - <img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="Microsoft Badge" width="25" height="25"> **Microsoft Certified: Security, Compliance and Identity Fundamentals**
   - **<i>Currently studying</i>**
 
+- <img src="https://bookface-images.s3.amazonaws.com/logos/06f37a2c3431748d0ddb96f49cb39db93035c618.png" alt="Microsoft Badge" width="25" height="25"> **Forage Virtual Internships**
+  - **<i>ANZ Cybersecurity Management, </i>**
+
 <h2> 🤳 Connect with me:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-samuel-271465268/)
