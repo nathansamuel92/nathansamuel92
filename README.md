@@ -10,7 +10,7 @@
 <h2>🏫 Uni/School Notable Projects:</h2>
 
 - <b>[Year12 IPT Major Project](https://github.com/nathansamuel92/HSC-IPT-MP)</b>
-- <b>[Year12 SDD Major Project](https://github.com/nathansamuel92/HSC-IPT-MP)</b>
+- <b>[Year12 SDD Major Project](https://github.com/nathansamuel92/HSC-SDD-MP)</b>
 
 ## 📄 Certifications:
 
