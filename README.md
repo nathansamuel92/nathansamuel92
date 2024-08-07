@@ -9,8 +9,8 @@
 
 <h2>🏫 Uni/School Notable Projects:</h2>
 
-- <b>[Year12 IPT Major Project](https://github.com/nathansamuel92/Building-a-Home-SOC-Lab)</b>
-- <b>[Year12 SDD Major Project](https://github.com/nathansamuel92/Building-a-Home-SOC-Lab)</b>
+- <b>[Year12 IPT Major Project](https://github.com/nathansamuel92/HSC-IPT-MP)</b>
+- <b>[Year12 SDD Major Project](https://github.com/nathansamuel92/HSC-IPT-MP)</b>
 
 ## 📄 Certifications:
 
