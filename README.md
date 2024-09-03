@@ -21,7 +21,7 @@
   - **<i>Currently studying</i>**
 
 - <img src="https://bookface-images.s3.amazonaws.com/logos/06f37a2c3431748d0ddb96f49cb39db93035c618.png" alt="Microsoft Badge" width="25" height="25"> **Forage Virtual Internships**
-  - **<i>ANZ Cybersecurity Management, Deloitte Australia - Technology Job Simulation</i>**
+  - **<i>[ANZ Cybersecurity Management](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_DMRCrETwN5MsZn3ZL_1725340279747_completion_certificate.pdf), [Deloitte Australia - Technology Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Deloitte%20Australia/YPWCiGNTkr6QxcpEu_Deloitte%20Australia_DMRCrETwN5MsZn3ZL_1724148133211_completion_certificate.pdf)</i>**
 
 <h2> 🤳 Connect with me:</h2>
 
