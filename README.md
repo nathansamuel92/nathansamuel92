@@ -1,7 +1,7 @@
 <h1>Hi, I'm Nathan! <br/> <a href="https://www.linkedin.com/in/nathan-samuel-271465268/">Cybersecurity Student</a></h1>
 
 <h2>👋 About me:</h2>
-<p> I am a dedicated, passionate, high-distinction cybersecurity student at the University of Technology Sydney studying the <a href="https://www.uts.edu.au/study/find-a-course/bachelor-cybersecurity">Bachelor of Cybersecurity</a></h1>. I Have completed over 4 years of relevant study and developed a robust skill set encompassing project management, practical experience, and proficient report writing within IT, specifically Cybersecurity. However, I'm forever excited to learn more. In the meantime, I have also accumulated over 3 years of retail/hospitality experience.</p>
+<p>I'm a dedicated cybersecurity student pursuing the <a href="https://www.uts.edu.au/study/find-a-course/bachelor-cybersecurity">Bachelor of Cybersecurity</a></h1> at the University of Technology Sydney with a high-distinction academic record and over four years of specialised study. I have hands-on experience with various industry-standard cybersecurity tools and regulations, gained through virtual internships, certifications, self-driven projects, and coursework. Truly passionate for continuous learning, I'm eager to contribute ambition and expertise to an internship, or graduate role.</p>
 
 <h2>👨‍💻 Personal Cybersecurity Projects:</h2>
 
