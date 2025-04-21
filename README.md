@@ -10,7 +10,7 @@
 <h2>🏫 Uni/School Projects:</h2>
 
 - <b>[AWS Secure Configuration](https://github.com/nathansamuel92/HSC-IPT-MP)</b>
-- <b>[Spam filtering automation](https://github.com/nathansamuel92/HSC-IPT-MP)</b>
+- <b>[ML Spam Filtering Automation](https://github.com/nathansamuel92/HSC-IPT-MP)</b>
 </br>
 
 - <b>[Year12 IPT Major Project](https://github.com/nathansamuel92/HSC-IPT-MP)</b>
