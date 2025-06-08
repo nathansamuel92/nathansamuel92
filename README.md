@@ -5,7 +5,7 @@
 
 <h2>👨‍💻 Personal Cybersecurity Projects:</h2>
 
-- <b>[Building a Home SOC Lab](https://github.com/nathansamuel92/Building-a-Home-SOC-Lab)</b>
+- <b>[Enterprise Cyebrsecurity Homelab](https://github.com/nathansamuel92/Building-a-Home-SOC-Lab)</b>
 
 <h2>🏫 Uni/School Projects:</h2>
 
