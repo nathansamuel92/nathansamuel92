@@ -16,7 +16,6 @@
 - <b>[Threat Defence Threat Analysis](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
 - <b>[Enterprise Mock Incident Response Plan](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
 - <b>[Mobile Platform Attack Analysis](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
-- <b>[Cisco Network Setup](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
 </br>
 
 - <b>[Year12 IPT Major Project](https://github.com/nathansamuel92/HSC-IPT-MP)</b>
