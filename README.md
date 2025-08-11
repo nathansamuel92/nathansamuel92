@@ -9,7 +9,7 @@
 
 <h2>🏫 Uni/School Projects</h2>
 
-- <b>[AWS Secure Configuration](https://github.com/nathansamuel92/HSC-IPT-MP)</b>
+- <b>[AWS Secure Configuration](https://github.com/nathansamuel92/AWS-Best-Practices-Configuration)</b>
 - <b>[ML Spam Filtering Automation](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
 - <b>[Deep Learning Adversarial Training](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
 - <b>[Network Intrusion Detection System (Anomaly tracking)](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
