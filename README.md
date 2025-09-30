@@ -19,7 +19,6 @@
 - <b>[SSH, SSL/TLS, & HTTPS Fundamentals](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
 - <b>[Blockchain: Ethereum Setup](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
 - <b>[OWASP Top 10 Analysis](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
-- <b>[Mobile Platform Attack Analysis](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
 </br>
 
 - <b>[Year12 IPT Major Project](https://github.com/nathansamuel92/HSC-IPT-MP)</b>
