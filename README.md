@@ -1,13 +1,19 @@
 <h1>Hi, I'm Nathan! <br/> <a href="https://www.linkedin.com/in/nathan-samuel-271465268/">Cybersecurity Student</a></h1>
 
 <h2>👋 About me</h2>
-<p>I'm a dedicated cybersecurity student pursuing the <a href="https://www.uts.edu.au/study/find-a-course/bachelor-cybersecurity">Bachelor of Cybersecurity</a></h1> at the University of Technology Sydney with a high-distinction academic record and over four years of specialised study. I have hands-on experience with various industry-standard cybersecurity tools and regulations, gained through virtual internships, certifications, self-driven projects, and coursework. Truly passionate for continuous learning, I'm eager to contribute ambition and expertise to an internship, or graduate role.</p>
+<p>I'm a dedicated cybersecurity graduate from the University of Technology Sydney (UTS), having completed the <a href="https://www.uts.edu.au/study/find-a-course/bachelor-cybersecurity">Bachelor of Cybersecurity</a> with a high-distinction academic record and over five years of specialised study. I have hands-on experience with industry-standard cybersecurity tools and frameworks, developed through virtual internships, certifications, self-driven projects, and coursework. Passionate about continuous learning, I'm eager to contribute my ambition and technical capability in an entry-level cybersecurity, internship, or graduate role.</p>
 
 <h2>👨‍💻 Personal Cybersecurity Projects</h2>
 
 - <b>[Enterprise Cybersecurity Homelab](https://github.com/nathansamuel92/Building-a-Home-SOC-Lab)</b>
 
 <h2>🏫 Uni/School Projects</h2>
+
+**Featured Project:**
+- <a href="PASTE_YOUR_CAPSTONE_REPO_LINK_HERE"><b>Cybersecurity Capstone Project Repository</b></a>
+
+
+</br>
 
 - <b>[AWS Secure Configuration](https://github.com/nathansamuel92/AWS-Best-Practices-Configuration)</b>
 - <b>[ML Spam Filtering Automation](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
