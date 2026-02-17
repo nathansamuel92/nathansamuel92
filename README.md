@@ -1,34 +1,37 @@
 <h1>Hi, I'm Nathan! <br/> <a href="https://www.linkedin.com/in/nathan-samuel-271465268/">Cybersecurity Student</a></h1>
 
 <h2>👋 About me</h2>
-<p>I'm a dedicated cybersecurity graduate from the University of Technology Sydney (UTS), having completed the <a href="https://www.uts.edu.au/study/find-a-course/bachelor-cybersecurity">Bachelor of Cybersecurity</a> with a high-distinction academic record and over five years of specialised study. I have hands-on experience with industry-standard cybersecurity tools and frameworks, developed through virtual internships, certifications, self-driven projects, and coursework. Passionate about continuous learning, I'm eager to contribute my ambition and technical capability in an entry-level cybersecurity, internship, or graduate role.</p>
+<p>I'm a recent cybersecurity graduate (GPA 6.5/7, Dean's List) specialising in blue-team and SOC environments with a curious drive for all areas in technology. Hands-on experience with industry tools such as Active Directory, Centralised log collections (Wazuh), Firewalls (pfSense), and analysing PCAP traffic via Wireshark, amongst many more. Security+ certified and inclined to entry-level SOC and blue team roles.</p>
 
-<h2>👨‍💻 Personal Cybersecurity Projects</h2>
 
+<h2>👨‍💻 Notable Cybersecurity Projects</h2>
+
+**Featured Projects:**
 - <b>[Enterprise Cybersecurity Homelab](https://github.com/nathansamuel92/Building-a-Home-SOC-Lab)</b>
-
-<h2>🏫 Uni/School Projects</h2>
-
-**Featured Project:**
-- <a href="PASTE_YOUR_CAPSTONE_REPO_LINK_HERE"><b>Cybersecurity Capstone Project Repository</b></a>
-
+- <b>[OCCT - OS Compliance Check Tool](https://github.com/OCCT-Capstone/occt-tool)</b>
 
 </br>
 
+**More projects:**
+
 - <b>[AWS Secure Configuration](https://github.com/nathansamuel92/AWS-Best-Practices-Configuration)</b>
 - <b>[ML Spam Filtering Automation](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
+
+</br>
+
+Coming soon:
 - <b>[Deep Learning Adversarial Training](https://github.com/nathansamuel92/Deep-Learning-Adversarial-Training/tree/main)</b>
 - <b>[Network Intrusion Detection System (Anomaly tracking)](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
 - <b>[Enterprise Mock Incident Response Plan](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
 - <b>[Mobile Platform Attack Analysis](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
-- <b>[Business Requirements Modelling Case Study](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
-- <b>[SSH, SSL/TLS, & HTTPS Fundamentals](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
-- <b>[Blockchain: Ethereum Setup](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
 - <b>[OWASP Top 10 Analysis](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
 </br>
 
+**Legacy projects:**
 - <b>[Year12 IPT Major Project](https://github.com/nathansamuel92/HSC-IPT-MP)</b>
 - <b>[Year12 SDD Major Project](https://github.com/nathansamuel92/HSC-SDD-MP)</b>
+
+</br>
 
 ## 📄 Certifications
 
