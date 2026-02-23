@@ -1,8 +1,7 @@
 <h1>Hi, I'm Nathan! <br/> <a href="https://www.linkedin.com/in/nathan-samuel-271465268/">Cybersecurity Student</a></h1>
 
 <h2>👋 About me</h2>
-<p>I'm a recent cybersecurity graduate (GPA 6.5/7, Dean's List) specialising in blue-team and SOC environments with a curious drive for all areas in technology. Hands-on experience with industry tools such as Active Directory, Centralised log collections (Wazuh), Firewalls (pfSense), and analysing PCAP traffic via Wireshark, amongst many more. Security+ certified and inclined to entry-level SOC and blue team roles.</p>
-
+<p>Cybersecurity graduate (GPA 6.5/7, Dean’s List) with hands-on experience in security, cloud, systems, and automation. Skilled in Active Directory, SOC, scripting (PowerShell, Python, Bash), and lab-based infrastructure projects. Security+ certified and focused on entry-level technology roles.</p>
 
 <h2>👨‍💻 Notable Cybersecurity Projects</h2>
 
