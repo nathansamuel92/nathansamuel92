@@ -7,7 +7,7 @@
 
 **Featured Projects:**
 - <b>[Enterprise Cybersecurity Homelab](https://github.com/nathansamuel92/Building-a-Home-SOC-Lab)</b>
-- <b>[OCCT - OS Compliance Check Tool](https://github.com/OCCT-Capstone/occt-tool)</b>
+- <b>[OCCT - OS Compliance Check Tool](https://github.com/nathansamuel92/OCCT-Windows-Compliance-Check-Tool-Overview)</b>
 
 </br>
 
