@@ -3,27 +3,15 @@
 <h2>👋 About me</h2>
 <p>Cybersecurity graduate (GPA 6.5/7, Dean’s List) with hands-on experience in security, cloud, systems, and automation. Skilled in Active Directory, SOC, scripting (PowerShell, Python, Bash), and lab-based infrastructure projects. Security+ certified and focused on entry-level technology roles.</p>
 
-<h2>👨‍💻 Notable Cybersecurity Projects</h2>
+<h2>👨‍💻 Notable Projects</h2>
 
 **Featured Projects:**
-- <b>[Enterprise Cybersecurity Homelab](https://github.com/nathansamuel92/Building-a-Home-SOC-Lab)</b>
-- <b>[OCCT - OS Compliance Check Tool](https://github.com/nathansamuel92/OCCT-Windows-Compliance-Check-Tool-Overview)</b>
-
-</br>
-
-**More projects:**
-
-- <b>[AWS Secure Configuration](https://github.com/nathansamuel92/AWS-Best-Practices-Configuration)</b>
+- <b>[Enterprise Homelab (Security-focus)](https://github.com/nathansamuel92/Building-a-Home-SOC-Lab)</b>
+- <b>[OCCT - Windows OS Compliance Check Tool](https://github.com/nathansamuel92/OCCT-Windows-Compliance-Check-Tool-Overview)</b>
+- <b>[Enterprise Incident Response Plan](https://github.com/nathansamuel92/Enterprise-Incident-Response-Plan)</b>
+- <b>[AWS Engineering - Secure Configuration](https://github.com/nathansamuel92/AWS-Best-Practices-Configuration)</b>
 - <b>[ML Spam Filtering Automation](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
 
-</br>
-
-Coming soon:
-- <b>[Deep Learning Adversarial Training](https://github.com/nathansamuel92/Deep-Learning-Adversarial-Training/tree/main)</b>
-- <b>[Network Intrusion Detection System (Anomaly tracking)](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
-- <b>[Enterprise Mock Incident Response Plan](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
-- <b>[Mobile Platform Attack Analysis](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
-- <b>[OWASP Top 10 Analysis](https://github.com/nathansamuel92/ML-Email-Spam-Filtering/tree/main)</b>
 </br>
 
 **Legacy projects:**
